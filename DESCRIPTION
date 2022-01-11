@@ -1,0 +1,11 @@
+   This project was the final project tackling the Interchange of Aeronautical Data (IAD) subject studied in third year at Faculty of Aerospace Engineering, Air Navigation Section. The Word documentation will be delivered upon request.
+   The code can be visualized using the Aeronautical Information Exchange Model Viewer (LUCIAD AIXM).
+This project represents a database that contains:
+      -airspace coordinates, 
+      -information regarding TORA, TODA and runway's physical characteristics, as well as taxyway coordinates and characteristics,
+      -obstacles and their validity,
+      -direction of the runway.
+The database has the following particularities:
+      -Every class had its own ID,
+      -Every elemend possesed and Universal Unique Identifier (UUID),
+The project was made with scalability and modularity taken into account.

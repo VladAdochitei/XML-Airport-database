@@ -1,3 +1,5 @@
+                                                               XML-IAD-PROJECT-DESCRIPTION
+   
    This project was the final project tackling the Interchange of Aeronautical Data (IAD) subject studied in third year at Faculty of Aerospace Engineering, 
 Air Navigation Section. The Word documentation will be delivered upon request.
    The code can be visualized using the Aeronautical Information Exchange Model Viewer (LUCIAD AIXM).
@@ -13,15 +15,6 @@ The database has the following particularities:
       -Every elemend possesed and Universal Unique Identifier (UUID).
       
 The project was made with scalability and modularity taken into account.
-
-
-
-
-
-
-
-
-
 
 
 
